@@ -1,0 +1,75 @@
+1
+00:00:00,070 --> 00:00:03,150
+You'll also notice an instructor note section next to the
+
+2
+00:00:03,150 --> 00:00:07,610
+discussion section at the bottom. Sometimes we'll have additional information
+
+3
+00:00:07,610 --> 00:00:10,140
+there, or a link to another page. You should see
+
+4
+00:00:10,140 --> 00:00:13,070
+a link there now. Oftentimes this link will go to a
+
+5
+00:00:13,070 --> 00:00:16,360
+Google spreed sheet with data for you to analyze. That's
+
+6
+00:00:16,360 --> 00:00:18,410
+right. In this class, you are going to learn how to
+
+7
+00:00:18,410 --> 00:00:22,360
+use spread sheets. A super practical, and useful skill. We've
+
+8
+00:00:22,360 --> 00:00:25,300
+found that Google spreadsheets is the best way to share data
+
+9
+00:00:25,300 --> 00:00:28,050
+with you for free. But to view the spreadsheet, you'll
+
+10
+00:00:28,050 --> 00:00:31,320
+need a Google account. Pause this video now, and click
+
+11
+00:00:31,320 --> 00:00:33,950
+the link below in Instructor Notes that says create a
+
+12
+00:00:33,950 --> 00:00:37,430
+Google account. If you already have one, you could skip this
+
+13
+00:00:37,430 --> 00:00:40,700
+step. Once you create your Google account, click the link
+
+14
+00:00:40,700 --> 00:00:43,390
+to view the Google spreadsheet. You'll see a bunch of
+
+15
+00:00:43,390 --> 00:00:47,140
+words written in various cells. A cell is one of
+
+16
+00:00:47,140 --> 00:00:50,640
+the rectangles in the table. And each cell has a name.
+
+17
+00:00:50,640 --> 00:00:57,600
+For example, this is cell c3. This is cell b5. This is cell a1. Once
+
+18
+00:00:57,600 --> 00:01:00,110
+you open the spreadsheet, write the words in
+
+19
+00:01:00,110 --> 00:01:02,760
+the following cells to get the hidden message.

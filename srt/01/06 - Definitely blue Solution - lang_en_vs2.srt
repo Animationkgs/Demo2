@@ -1,0 +1,19 @@
+1
+00:00:00,450 --> 00:00:05,850
+The answer is no. You could get green, orange, or red, or yellow since those
+
+2
+00:00:05,850 --> 00:00:08,029
+are also in the jar. But most likely,
+
+3
+00:00:08,029 --> 00:00:10,430
+you'll get blue. Later in this course you'll
+
+4
+00:00:10,430 --> 00:00:15,360
+learn how samples, in this case the sample is the one M&amp;M that you pulled out,
+
+5
+00:00:15,360 --> 00:00:20,160
+can be used to learn about the population, which is like the whole jar of M&amp;Ms.

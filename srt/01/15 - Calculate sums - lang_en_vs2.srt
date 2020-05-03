@@ -1,0 +1,47 @@
+1
+00:00:00,310 --> 00:00:02,730
+So, let's actually do the calculation for each
+
+2
+00:00:02,730 --> 00:00:05,600
+season. This time you'll have to copy and
+
+3
+00:00:05,600 --> 00:00:08,119
+paste the data into your own spreadsheet like
+
+4
+00:00:08,119 --> 00:00:10,990
+we showed you before. Highlight the data by
+
+5
+00:00:10,990 --> 00:00:19,150
+clicking and dragging from cell A1 all the way down to cell C27 since that will
+
+6
+00:00:19,150 --> 00:00:25,099
+ensure that all of the data is copied. Then type Cmd C or Ctrl+C to copy it.
+
+7
+00:00:25,099 --> 00:00:30,223
+Then go to your spreadsheet that you created in your statistics folder,
+
+8
+00:00:30,223 --> 00:00:35,348
+and type Ctrl or Cmd+V. Then in any of the blank cells, type your
+
+9
+00:00:35,348 --> 00:00:40,530
+command. Equal sum, and for Season 1, that would be
+
+10
+00:00:40,530 --> 00:00:45,680
+A2 to A24. For Season 2, you would type, equal sum
+
+11
+00:00:45,680 --> 00:00:50,310
+( B2 all the way to the end cell, then you'd do the same
+
+12
+00:00:50,310 --> 00:00:55,630
+process for the total sum for Season 3. Type in your answers here.

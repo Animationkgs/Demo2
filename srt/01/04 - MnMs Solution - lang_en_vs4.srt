@@ -1,0 +1,15 @@
+1
+00:00:00,080 --> 00:00:03,200
+Well, our best guess would be blue, since most
+
+2
+00:00:03,200 --> 00:00:05,510
+of the M and M's are blue. See? A lot
+
+3
+00:00:05,510 --> 00:00:09,120
+of statistics is just about using your intuition. In this
+
+4
+00:00:09,120 --> 00:00:12,160
+course, you'll build on the intuition that you already have.

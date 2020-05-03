@@ -1,0 +1,11 @@
+1
+00:00:00,025 --> 00:00:05,025
+Well if we open the spreadsheet, cell C14 says statistics,
+
+2
+00:00:05,025 --> 00:00:10,320
+cell B6 says is, and D3 says
+
+3
+00:00:10,320 --> 00:00:15,030
+awesome, therefore the secret message is, statistics is awesome.

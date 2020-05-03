@@ -1,0 +1,28 @@
+
+
+
+$ mkdir Demo
+$ cd Demo
+$ ls
+$ echo "# Demo" >> README.md
+$ git init
+warning: Cannot protect .git/config on this file system - do not store sensitive information here.
+Initialized empty Git repository in /storage/emulated/0/Download/sync/st095/Demo/.git/
+$ git add README.md
+$ git commit -m "first commit"
+[master (root-commit) 9a2880b] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+$ git remote add origin https://github.com/Animationkgs/Demo.git
+warning: Cannot protect .git/config on this file system - do not store sensitive information here.
+$ git push -u origin master
+Username for 'https://github.com': Animationkgs
+Password for 'https://Animationkgs@github.com':
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 221 bytes | 110.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Animationkgs/Demo.git
+ * [new branch]      master -> master
+warning: Cannot protect .git/config on this file system - do not store sensitive information here.
+Branch 'master' set up to track remote branch 'master' from 'origin'.

@@ -1,0 +1,71 @@
+1
+00:00:00,220 --> 00:00:03,960
+Let's practice. Open the Google spreadsheet that's linked in instructor
+
+2
+00:00:03,960 --> 00:00:08,060
+notes. I like to snowboard, [NOISE] and I want to know
+
+3
+00:00:08,060 --> 00:00:10,620
+how much it snowed over the last three seasons in
+
+4
+00:00:10,620 --> 00:00:12,670
+Tahoe so that I can get a feel for how much
+
+5
+00:00:12,670 --> 00:00:15,970
+it'll snow this season. Every time it snowed, I listed
+
+6
+00:00:15,970 --> 00:00:18,880
+the inches of snowfall and the date. So when you
+
+7
+00:00:18,880 --> 00:00:21,850
+open the spreadsheet you should see three columns of data.
+
+8
+00:00:21,850 --> 00:00:25,320
+One for each season. We want to know the total amount
+
+9
+00:00:25,320 --> 00:00:29,180
+of snowfall that occurred each season. When we're doing
+
+10
+00:00:29,180 --> 00:00:32,000
+any type of calculation in a spreadsheet, we start with
+
+11
+00:00:32,000 --> 00:00:34,900
+an equal sign. In this case, we want to sum
+
+12
+00:00:34,900 --> 00:00:37,770
+up all the numbers in each column. So I'll write
+
+13
+00:00:37,770 --> 00:00:40,600
+equals sum, and then the name of the start
+
+14
+00:00:40,600 --> 00:00:44,260
+cell, colon, and then the name of the end cell.
+
+15
+00:00:44,260 --> 00:00:47,270
+This colon means that we sum all the numbers in
+
+16
+00:00:47,270 --> 00:00:50,780
+between the start cell and the end cell. And remember,
+
+17
+00:00:50,780 --> 00:00:55,540
+you've already learned how we denote the names of each cell. So, if we want
+
+18
+00:00:55,540 --> 00:01:00,150
+to know how much it snowed in season one, what should we put here, and here?

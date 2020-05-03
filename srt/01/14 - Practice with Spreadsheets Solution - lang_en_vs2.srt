@@ -1,0 +1,11 @@
+1
+00:00:00,170 --> 00:00:05,715
+The first value of season one is in cell A2. And the last value of season
+
+2
+00:00:05,715 --> 00:00:12,020
+one is cell A24. So we want cell A2 all the way,
+
+3
+00:00:12,020 --> 00:00:17,050
+as denoted by the colon, through cell A24. And then we'll take the sum.

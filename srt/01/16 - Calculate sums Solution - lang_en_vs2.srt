@@ -1,0 +1,71 @@
+1
+00:00:00,310 --> 00:00:06,240
+In this blank space, cell A26, we'll type equals sum
+
+2
+00:00:08,270 --> 00:00:13,250
+A2 colon A24. And we get that the total snowfall
+
+3
+00:00:13,250 --> 00:00:17,950
+was 122 inches in season one. For season two, we want the
+
+4
+00:00:17,950 --> 00:00:22,840
+sum from cell B2 all the way to cell B27. If
+
+5
+00:00:22,840 --> 00:00:27,930
+we type in this command and press Enter, we
+
+6
+00:00:27,930 --> 00:00:33,330
+get 173. Finally, in cell C28, I'll find the total
+
+7
+00:00:33,330 --> 00:00:36,670
+precipitation from season three. Which is from C2
+
+8
+00:00:36,670 --> 00:00:42,480
+to cell C26, and we get 129. So
+
+9
+00:00:42,480 --> 00:00:44,200
+it looks like it snowed the most in
+
+10
+00:00:44,200 --> 00:00:47,760
+season two. Great job. If this was tricky, don't
+
+11
+00:00:47,760 --> 00:00:50,100
+worry. You'll get better and better with using
+
+12
+00:00:50,100 --> 00:00:52,520
+Google Spreadsheets during this class, and by the
+
+13
+00:00:52,520 --> 00:00:54,780
+end, you'll be a pro. If you still
+
+14
+00:00:54,780 --> 00:00:58,570
+have questions, post in the forums. Your amazing peers
+
+15
+00:00:58,570 --> 00:01:01,360
+are always really quick to answer. But if this
+
+16
+00:01:01,360 --> 00:01:04,250
+was confusing, play around with Google Spreadsheets a little bit
+
+17
+00:01:04,250 --> 00:01:07,570
+more. It's important that you're comfortable with learning them,
+
+18
+00:01:07,570 --> 00:01:10,080
+because then you'll have a better experience throughout this course.

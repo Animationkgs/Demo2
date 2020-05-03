@@ -1,0 +1,15 @@
+1
+00:00:00,480 --> 00:00:04,290
+Quizzes won't always be multiple choice, like this one. For example,
+
+2
+00:00:04,290 --> 00:00:07,670
+let's ask another question. If you reach your hand in this jar
+
+3
+00:00:07,670 --> 00:00:10,400
+of M&amp;Ms and randomly grab one, just like in the last
+
+4
+00:00:10,400 --> 00:00:15,930
+quiz, will it definitely be blue? This time, type yes or no.

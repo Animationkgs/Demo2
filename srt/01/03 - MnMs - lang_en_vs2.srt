@@ -1,0 +1,15 @@
+1
+00:00:00,110 --> 00:00:03,680
+For example, let's say you have a jar of M&amp;Ms. If
+
+2
+00:00:03,680 --> 00:00:07,700
+you reached in and randomly grabbed one, what color do you think
+
+3
+00:00:07,700 --> 00:00:12,960
+it would most likely be? Red, blue, green, orange, or yellow?
+
+4
+00:00:12,960 --> 00:00:16,390
+Click the radio button that corresponds to the answer you would choose.
